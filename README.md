@@ -7,7 +7,7 @@ Little example to run reports based in csv files
 
 **How to run the app**
 
-```spring-boot:run```
+```mvn spring-boot:run```
 
 **Technical Notes and Decisions**
 
